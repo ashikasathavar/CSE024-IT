@@ -99,10 +99,10 @@ body {
     <form name="myForm" class="form-signin" action="log1.php" method="POST">       
     <center>  <h2 class="form-signin-heading">Student login</h2></center>
 	<center><div>
-      <input type="text" class="form-control" name="username" id="username" placeholder="enter username"  autofocus="" />
+      <input type="text" class="form-control" name="username" id="username" placeholder="enter your username"  autofocus="" />
 <br />
 <br />
-      <input type="password" class="form-control" name="password" placeholder="enter Password"/> <br /> <br />  
+      <input type="password" class="form-control" name="password" placeholder="enter the Password"/> <br /> <br />  
     
      <center> <input class="btn btn-lg btn-primary btn-block" onclick="validate();" type="submit" value="LOGIN"/> </center>  
 	</center></div>
