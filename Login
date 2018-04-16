@@ -12,7 +12,7 @@
 				 }
 			if( document.myForm.username.length <=12 )
 				 {
-				    alert( "Please provide valid username" );
+				    alert( "Please provide valid username of valid length" );
 				    document.myForm.username.focus() ;
 				    return false;
 				 }
